@@ -55,7 +55,7 @@ The output JSON file (`housesOutput.jl`) will look like this:
 2. **Validation Tests**: Use online JSON validators like [JSONLint](https://jsonlint.com/) to ensure the output JSON is valid.
 
 ## Test File
-The test file provides:
+The test file which is main_test.go provides:
 1. **CPU Profiling**: Creates a CPU profile file (`cpu_profile.prof`) to monitor the application's CPU usage during the test run.
 2. **Temporary CSV File Creation**: Creates a temporary CSV file with sample data to be used for testing the CSV to JSON conversion.
 3. **Temporary Output File**: Creates a temporary JSON output file to store the results of the conversion.
