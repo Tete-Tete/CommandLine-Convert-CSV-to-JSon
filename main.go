@@ -74,5 +74,5 @@ func main() {
 	}
 
 	// Print success message //
-	fmt.Println("CONVERT CSV TO JSON IS SUCCESSED!!!")
+	fmt.Println("Convert CSV TO JSON IS SUCCESSED!!!")
 }
